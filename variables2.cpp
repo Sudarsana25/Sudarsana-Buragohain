@@ -1,3 +1,4 @@
+// This is a C++ program by SUdarsana Buragohain
 // initialisation of variables
 #include <iostream>
 using namespace std;
@@ -9,4 +10,5 @@ int main ()
 	a=a+3;
 	cout << result;
 	return 0;
+
 }
